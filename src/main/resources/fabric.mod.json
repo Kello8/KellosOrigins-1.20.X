@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "kellosorigins",
+	"version": "${version}",
+	"name": "Kello's Origins",
+	"description": "This Origins Mod Addon adds new Origins to pick between!",
+	"authors": [
+		"Kello",
+		"Skeleai"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/kellosorigins/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kello.kellosorigins.Kellosorigins"
+		],
+		"client": [
+			"net.kello.kellosorigins.KellosoriginsClient"
+		],
+		"fabric-datagen": [
+			"net.kello.kellosorigins.KellosoriginsDataGenerator"
+		]
+	},
+	"mixins": [
+		"kellosorigins.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+	}
+}
