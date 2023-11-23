@@ -1,0 +1,14 @@
+{
+ "powers": [
+   "kellosorigins:fragile",
+   "kellosorigins:undead",
+   "kellosorigins:skeleton_bow",
+   "kellosorigins:burn_in_daylight",
+   "kellosorigins:crypt_spawn"
+ ],
+  "icon": "minecraft:bone",
+  "order": 1,
+  "impact": 2,
+  "name": "Skeleton",
+  "description": "A corpse of a long gone civilization returned from the dead."
+}

@@ -1,0 +1,18 @@
+{
+ "powers": [
+   "kellosorigins:uv_radiation",
+   "kellosorigins:uv_shaking",
+   "kellosorigins:sculk_vision",
+   "kellosorigins:sculks_touch",
+   "kellosorigins:small",
+   "kellosorigins:sculk_phase",
+   "kellosorigins:sculk_gui",
+   "kellosorigins:sculk_skin",
+   "kellosorigins:sculk_attachment"
+ ],
+  "icon": "minecraft:sculk_catalyst",
+  "order": 1,
+  "impact": 3,
+  "name": "Sculk Dweller",
+  "description": "A piece of sculk that dwells around the deep dark looking for easy prey."
+}

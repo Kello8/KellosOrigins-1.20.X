@@ -1,0 +1,5 @@
+{
+  "type": "origins:status_bar_texture",
+  "texture": "kellosorigins:textures/gui/icons.png",
+  "hidden": true
+}

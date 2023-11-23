@@ -1,0 +1,17 @@
+{
+ "powers": [
+   "kellosorigins:large",
+   "kellosorigins:bedrock_phase",
+   "kellosorigins:thick_skin",
+   "kellosorigins:immune_to_fire",
+   "kellosorigins:heavy_swimmer",
+   "kellosorigins:nether_roof",
+   "kellosorigins:lava_vision",
+   "kellosorigins:bedrock_vision"
+ ],
+  "icon": "minecraft:bedrock",
+  "order": 1,
+  "impact": 3,
+  "name": "Bedrock Golem",
+  "description": "A rare but durable species that have adapted overtime to hot temperatures and pressures."
+}

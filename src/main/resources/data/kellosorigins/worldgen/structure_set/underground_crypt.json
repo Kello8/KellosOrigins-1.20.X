@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "kellosorigins:underground_crypt",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1513538572,
+
+    "spacing": 30,
+    "separation": 9,
+
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "type": "origins:multiple",
+  "modify_size": {
+    "type": "kellosorigins:modify_size",
+    "scale_types": [
+      "kellosorigins:modify_size"
+    ],
+    "scale": 1.5
+  },
+  "modify_hitbox_width": {
+    "type": "kellosorigins:modify_size",
+    "scale_types": [
+      "pehkui:hitbox_width"
+    ],
+    "scale": 1.5
+  },
+  "attribute_modifiers": {
+    "type": "origins:attribute",
+    "modifiers": [
+      {
+        "name": "Origin modifier",
+        "attribute": "minecraft:generic.max_health",
+        "operation": "addition",
+        "value": 20
+      },
+      {
+        "name": "Origin modifier",
+        "attribute": "minecraft:generic.attack_speed",
+        "operation": "addition",
+        "value": -0.3
+      },
+      {
+        "name": "Origin modifier",
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "addition",
+        "value": 0.015
+      },
+      {
+        "name": "Origin modifier",
+        "attribute": "reach-entity-attributes:attack_range",
+        "operation": "addition",
+        "value": 2
+      },
+      {
+        "name": "Origin modifier",
+        "attribute": "reach-entity-attributes:reach",
+        "operation": "addition",
+        "value": 2
+      }
+    ]
+  }
+}

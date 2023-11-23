@@ -1,0 +1,9 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Thick Skin",
+    "attribute": "minecraft:generic.armor",
+    "value": 7,
+    "operation": "addition"
+  }
+}

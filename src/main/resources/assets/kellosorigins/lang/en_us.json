@@ -1,0 +1,62 @@
+{
+  "power.kellosorigins.fragile.name": "Fragile",
+  "power.kellosorigins.fragile.description": "You have 3 less hearts from your max health because of how fragile you are.",
+
+  "power.kellosorigins.undead.name": "Undead Skin",
+  "power.kellosorigins.undead.description": "Due to you being undead you will now take more damage from Smite.",
+
+  "power.kellosorigins.skeleton_bow.name": "Experienced Archer",
+  "power.kellosorigins.skeleton_bow.description": "Your bow shots will deal more damage.",
+
+  "power.kellosorigins.burn_in_daylight.name": "Burn in Daylight",
+  "power.kellosorigins.burn_in_daylight.description": "Your undead skin will ignite in day if you don't wear something to cover it.",
+
+  "power.kellosorigins.crypt.name": "Underground Spawn",
+  "power.kellosorigins.crypt.description": "You spawn in a Crypt located underground which is safely away from the sun.",
+
+  "power.kellosorigins.large.name": "Large Vessel",
+  "power.kellosorigins.large.description": "You are slightly larger than the average person.",
+
+  "power.kellosorigins.thick_skin.name": "Thick Skin",
+  "power.kellosorigins.thick_skin.description": "Due to your bedrock skin you have inbuilt armor and an extra 6 hearts.",
+
+  "power.kellosorigins.immune_to_fire.name": "Fire Immunity",
+  "power.kellosorigins.immune_to_fire.description": "Your thick skin and lack of tissue keep you are safe from all fire damage.",
+
+  "power.kellosorigins.heavy_swimmer.name": "Heavy Swimmer",
+  "power.kellosorigins.heavy_swimmer.description": "You are so heavy that you can't swim and sink right to the bottom of all liquids.",
+
+  "power.kellosorigins.bedrock_phase.name": "Bedrock Phasing",
+  "power.kellosorigins.bedrock_phase.description": "You can phase right through bedrock, be careful not to use it close to the void! It's a one way trip.",
+
+  "power.kellosorigins.nether_roof.name": "Flat Spawn",
+  "power.kellosorigins.nether_roof.description": "You spawn on the Nether roof.",
+
+  "power.kellosorigins.lava_vision.name": "Lava Vision",
+  "power.kellosorigins.lava_vision.description": "You can see a few blocks ahead of you in lava.",
+
+  "power.kellosorigins.bedrock_vision.name": "Bedrock Vision",
+  "power.kellosorigins.bedrock_vision.description": "After spending many hours on the nether roof your eyes have adjusted to bedrock and now has had made your vision lose a little color.",
+
+  "power.kellosorigins.uv_radiation.name": "UV Radiation",
+  "power.kellosorigins.uv_radiation.description": "Don't stand in sunlight as your body can't stand the UV radiation the sun emits.",
+
+  "power.kellosorigins.sculk_vision.name": "Sculk Sight",
+  "power.kellosorigins.sculk_vision.description": "Due to being made out of mainly sculk your vision is 'different' than most.",
+
+  "power.kellosorigins.sculks_touch.name": "Sculk's Touch",
+  "power.kellosorigins.sculks_touch.description": "All Experience gain is doubled.",
+
+  "power.kellosorigins.small.name": "Small",
+  "power.kellosorigins.small.description": "You are a block and a half tall, have a little less health but move quicker.",
+
+  "power.kellosorigins.sculk_phase.name": "Sculk Entanglement",
+  "power.kellosorigins.sculk_phase.description": "You can walk through sculk.",
+
+  "power.kellosorigins.sculk_attachment.name": "Sculk Attachment",
+  "power.kellosorigins.sculk_attachment.description": "Keep Hotbar and Offhand items even after death.",
+
+
+  "death.attack.uv_radiation": "%1$s was exposed to UV Radiation for too long",
+  "death.attack.uv_radiation.player": "%1$s was pushed into the sunlight by %2$s"
+}

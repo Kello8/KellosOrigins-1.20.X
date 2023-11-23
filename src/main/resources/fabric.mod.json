@@ -33,7 +33,8 @@
 		"fabricloader": ">=0.14.24",
 		"minecraft": "~1.20.2",
 		"java": ">=17",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"origins": ">=1.11.0"
 	},
 	"suggests": {
 	}

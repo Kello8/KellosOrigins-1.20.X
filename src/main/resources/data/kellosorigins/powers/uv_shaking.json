@@ -1,0 +1,7 @@
+{
+  "type": "origins:shaking",
+  "condition": {
+    "type": "origins:exposed_to_sun"
+  },
+  "hidden": true
+}

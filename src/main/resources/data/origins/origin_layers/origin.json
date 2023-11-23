@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "origins": [
+    "kellosorigins:skeleton",
+    "kellosorigins:bedrock_golem",
+    "kellosorigins:sculk_dweller"
+  ]
+}
