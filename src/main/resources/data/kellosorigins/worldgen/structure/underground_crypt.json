@@ -7,7 +7,7 @@
   "biomes": "#kellosorigins:has_structure/underground_crypt",
   "step": "surface_structures",
   "start_height": {
-    "absolute": -32
+    "absolute": -50
   },
 
   "project_start_to_heightmap": "WORLD_SURFACE_WG",

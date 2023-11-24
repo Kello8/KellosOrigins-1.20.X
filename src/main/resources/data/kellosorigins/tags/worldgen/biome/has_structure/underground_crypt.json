@@ -2,6 +2,13 @@
   "replace": false,
 
   "values": [
-  "#minecraft:is_overworld"
+    "minecraft:desert",
+    "minecraft:badlands",
+    "minecraft:meadow",
+    "minecraft:cherry_grove",
+    "minecraft:grove",
+    "minecraft:snowy_slopes",
+    "minecraft:frozen_peaks",
+    "minecraft:stony_peaks"
  ]
 }
