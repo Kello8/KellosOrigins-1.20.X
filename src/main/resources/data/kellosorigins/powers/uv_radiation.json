@@ -50,9 +50,9 @@
 
     "effect": {
         "type": "origins:stacking_status_effect",
-        "min_stacks": -2,
+        "min_stacks": -1,
         "max_stacks": 3,
-        "duration_per_stack": 60,
+        "duration_per_stack": 50,
         "tick_rate": 20,
         "effects": [
             {
