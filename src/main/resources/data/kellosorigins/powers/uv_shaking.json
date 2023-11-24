@@ -1,7 +1,16 @@
 {
   "type": "origins:shaking",
-  "condition": {
-    "type": "origins:exposed_to_sun"
+  "condition":
+  {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:daytime"
+      },
+      {
+        "type": "origins:exposed_to_sun"
+      }
+    ]
   },
   "hidden": true
 }

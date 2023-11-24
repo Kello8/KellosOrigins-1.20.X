@@ -5,7 +5,8 @@
     "damage": 2,
     "damage_easy": 1,
     "damage_type": "kellosorigins:uv_radiation",
-    "condition": {
+    "condition":
+    {
         "type": "origins:exposed_to_sun"
     }
 }
