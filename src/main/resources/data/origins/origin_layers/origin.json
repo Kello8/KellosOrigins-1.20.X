@@ -3,6 +3,7 @@
   "origins": [
     "kellosorigins:skeleton",
     "kellosorigins:bedrock_golem",
-    "kellosorigins:sculk_dweller"
+    "kellosorigins:sculk_dweller",
+    "kellosorigins:leviathan_spawn"
   ]
 }

@@ -11,8 +11,8 @@
   "power.kellosorigins.burn_in_daylight.name": "Burn in Daylight",
   "power.kellosorigins.burn_in_daylight.description": "Your undead skin will ignite in day if you don't wear something to cover it.",
 
-  "power.kellosorigins.crypt.name": "Underground Spawn",
-  "power.kellosorigins.crypt.description": "You spawn in a Crypt located underground which is safely away from the sun.",
+  "power.kellosorigins.crypt_spawn.name": "Underground Spawn",
+  "power.kellosorigins.crypt_spawn.description": "You spawn in a Crypt located underground which is safely away from the sun.",
 
   "power.kellosorigins.large.name": "Large Vessel",
   "power.kellosorigins.large.description": "You are slightly larger than the average person.",
@@ -47,14 +47,31 @@
   "power.kellosorigins.sculks_touch.name": "Sculk's Touch",
   "power.kellosorigins.sculks_touch.description": "All Experience gain is doubled.",
 
+  "power.kellosorigins.heart_of_sculk.name": "Heart of Sculk",
+  "power.kellosorigins.heart_of_sculk.description": "When near sculk you will gain Regeneration, Strength, Resistance and replenish all hunger.",
+
+  "power.kellosorigins.deep_dark_spawn.name": "Deep Dark",
+  "power.kellosorigins.deep_dark_spawn.description": "You spawn in the Deep Dark.",
+
+  "power.kellosorigins.reactive_skin.name": "Reactive Skin",
+  "power.kellosorigins.reactive_skin.description": "When something attacks you it will be inflicted with darkness and other debuffs for a short time. (Has a cooldown)",
+
   "power.kellosorigins.small.name": "Small",
-  "power.kellosorigins.small.description": "You are a block and a half tall, have a little less health but move quicker.",
+  "power.kellosorigins.small.description": "You are small, have a little less health but move quicker.",
 
   "power.kellosorigins.sculk_phase.name": "Sculk Entanglement",
   "power.kellosorigins.sculk_phase.description": "You can walk through sculk.",
 
   "power.kellosorigins.sculk_attachment.name": "Sculk Attachment",
   "power.kellosorigins.sculk_attachment.description": "Keep Hotbar and Offhand items even after death.",
+
+  "power.kellosorigins.aquatic.name": "Aquatic",
+  "power.kellosorigins.aquatic.description": "Impaling deals more damage to you.",
+
+  "power.kellosorigins.massive.name": "Massive",
+  "power.kellosorigins.massive.description": "You are a giant sea creature that has hard scales that protect you, a lot more health and deal much more damage.",
+
+
 
 
   "death.attack.uv_radiation": "%1$s was exposed to UV Radiation for too long",

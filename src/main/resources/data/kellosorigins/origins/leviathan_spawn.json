@@ -1,0 +1,20 @@
+{
+ "powers": [
+   "kellosorigins:massive",
+   "kellosorigins:aquatic",
+   "kellosorigins:echolocation",
+   "origins:like_water",
+   "origins:swim_speed",
+   "origins:conduit_power_on_land",
+   "origins:water_vision",
+   "origins:aqua_affinity",
+   "origins:water_breathing",
+   "origins:air_from_potions",
+   "origins:carnivore"
+ ],
+  "icon": "minecraft:water_bucket",
+  "order": 3,
+  "impact": 3,
+  "name": "Leviathan Spawn",
+  "description": "A large and ancient sea monster that reside in deep waters."
+}
