@@ -7,7 +7,8 @@
    "kellosorigins:heavy_swimmer",
    "kellosorigins:nether_roof",
    "kellosorigins:lava_vision",
-   "kellosorigins:bedrock_vision"
+   "kellosorigins:bedrock_vision",
+   "kellosorigins:bedrock_gui"
  ],
   "icon": "minecraft:bedrock",
   "order": 1,

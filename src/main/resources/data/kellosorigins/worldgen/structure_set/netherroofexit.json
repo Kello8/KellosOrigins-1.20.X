@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "kellosorigins:netherroofexit",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1253682596,
+
+    "spacing": 20,
+    "separation": 9,
+
+    "type": "minecraft:random_spread"
+  }
+}

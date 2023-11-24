@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+
+  "start_pool": "kellosorigins:netherroofexit/start_pool",
+
+  "size": 7,
+  "max_distance_from_center": 12,
+  "biomes": "#kellosorigins:has_structure/netherroofexit",
+  "step": "surface_structures",
+  "start_height": {
+    "absolute": -6
+  },
+
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+
+  "use_expansion_hack": false,
+
+  "spawn_overrides": {
+  }
+}

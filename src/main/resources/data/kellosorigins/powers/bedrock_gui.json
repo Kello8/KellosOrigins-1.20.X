@@ -1,0 +1,5 @@
+{
+  "type": "origins:status_bar_texture",
+  "texture": "kellosorigins:textures/gui/bedrock_icons.png",
+  "hidden": true
+}
