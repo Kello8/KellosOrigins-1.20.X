@@ -1,6 +1,6 @@
 {
   "type": "origins:modify_player_spawn",
   "dimension": "minecraft:overworld",
-  "structure": "kellosorigins:crypt",
+  "structure": "kellosorigins:underground_crypt",
   "spawn_strategy": "center"
 }
