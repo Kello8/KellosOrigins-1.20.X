@@ -1,9 +1,7 @@
 {
  "powers": [
-   "kellosorigins:sculk_aura",
    "kellosorigins:deep_dark_spawn",
    "kellosorigins:uv_radiation",
-   "kellosorigins:uv_shaking",
    "kellosorigins:sculk_vision",
    "kellosorigins:sculks_touch",
    "kellosorigins:small",

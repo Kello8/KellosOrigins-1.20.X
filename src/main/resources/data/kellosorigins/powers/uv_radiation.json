@@ -1,12 +1,50 @@
 {
-    "type": "origins:damage_over_time",
-    "interval": 5,
-    "onset_delay": 1,
-    "damage": 2,
-    "damage_easy": 1,
-    "damage_type": "kellosorigins:uv_radiation",
-    "condition":
-    {
-        "type": "origins:exposed_to_sun"
+    "type": "origins:multiple",
+
+    "damage_over_time": {
+        "type": "origins:damage_over_time",
+        "interval": 5,
+        "onset_delay": 1,
+        "damage": 2,
+        "damage_easy": 1,
+        "damage_type": "kellosorigins:uv_radiation",
+        "condition": {
+            "type": "origins:exposed_to_sun"
+        }
+    },
+
+    "shaking": {
+        "type": "origins:shaking",
+        "condition":
+        {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:daytime"
+                },
+                {
+                    "type": "origins:exposed_to_sun"
+                }
+            ]
+        }
+    },
+
+    "particle": {
+        "type": "origins:particle",
+        "particle": "minecraft:sculk_soul",
+        "frequency": 1,
+        "offset_y": 0.1,
+        "condition":
+        {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:daytime"
+                },
+                {
+                    "type": "origins:exposed_to_sun"
+                }
+            ]
+        }
     }
 }
