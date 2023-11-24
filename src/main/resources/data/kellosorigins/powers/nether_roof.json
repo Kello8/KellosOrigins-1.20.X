@@ -1,7 +1,8 @@
 {
   "type": "origins:modify_player_spawn",
-  "dimension": "minecraft:nether",
+  "dimension": "minecraft:the_nether",
   "structure": "kellosorigins:netherroofexit",
+  "dimension_distance_multiplier": 0.125,
   "spawn_strategy": "center",
   "hidden": true
 }
