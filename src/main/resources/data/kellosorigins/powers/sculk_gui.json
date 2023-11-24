@@ -1,5 +1,5 @@
 {
   "type": "origins:status_bar_texture",
-  "texture": "kellosorigins:textures/gui/icons.png",
+  "texture": "kellosorigins:textures/gui/sculk_icons.png",
   "hidden": true
 }

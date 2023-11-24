@@ -1,0 +1,30 @@
+{
+  "type": "origins:attacker_action_when_hit",
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effects": [
+      {
+        "effect": "minecraft:darkness",
+        "duration": 200,
+        "is_ambient": true,
+        "show_particles": false,
+        "show_icon": true
+      },
+      {
+        "effect": "minecraft:slowness",
+        "duration": 80,
+        "is_ambient": true,
+        "show_particles": false,
+        "show_icon": true
+      },
+      {
+        "effect": "minecraft:weakness",
+        "duration": 80,
+        "is_ambient": true,
+        "show_particles": false,
+        "show_icon": true
+      }
+    ]
+  },
+  "cooldown": 800
+}

@@ -1,0 +1,10 @@
+{
+  "type": "origins:particle",
+  "particle": "minecraft:sculk_soul",
+  "frequency": 1,
+  "offset_y": 0.1,
+  "condition": {
+    "type": "origins:exposed_to_sun"
+  },
+  "hidden": true
+}

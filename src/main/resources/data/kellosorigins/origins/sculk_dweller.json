@@ -1,5 +1,7 @@
 {
  "powers": [
+   "kellosorigins:sculk_aura",
+   "kellosorigins:deep_dark_spawn",
    "kellosorigins:uv_radiation",
    "kellosorigins:uv_shaking",
    "kellosorigins:sculk_vision",
@@ -8,7 +10,8 @@
    "kellosorigins:sculk_phase",
    "kellosorigins:sculk_gui",
    "kellosorigins:sculk_skin",
-   "kellosorigins:sculk_attachment"
+   "kellosorigins:sculk_attachment",
+   "kellosorigins:heart_of_sculk"
  ],
   "icon": "minecraft:sculk_catalyst",
   "order": 1,

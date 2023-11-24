@@ -5,7 +5,7 @@
     "scale_types": [
       "kellosorigins:modify_size"
     ],
-    "scale": 0.7
+    "scale": 0.6
   },
   "modify_hitbox_width": {
     "type": "kellosorigins:modify_size",
