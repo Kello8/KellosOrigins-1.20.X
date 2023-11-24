@@ -12,7 +12,7 @@
     "scale_types": [
       "pehkui:hitbox_width"
     ],
-    "scale": 1.5
+    "scale": 1.0
   },
   "attribute_modifiers": {
     "type": "origins:attribute",
