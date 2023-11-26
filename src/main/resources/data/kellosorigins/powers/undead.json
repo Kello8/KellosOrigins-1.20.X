@@ -8,7 +8,7 @@
 
   "undead_vision": {
     "type": "origins:night_vision",
-    "strength": 0.4
+    "strength": 0.25
   },
 
   "negative_potion_immunity": {
@@ -29,7 +29,6 @@
       },
       {
         "item": "minecraft:arrow",
-        "amount": 64,
         "slot": 17
       }
     ]
