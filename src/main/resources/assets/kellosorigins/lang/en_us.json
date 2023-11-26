@@ -2,11 +2,11 @@
   "power.kellosorigins.fragile.name": "Fragile",
   "power.kellosorigins.fragile.description": "You have 3 less hearts from your max health because of how fragile you are.",
 
-  "power.kellosorigins.undead.name": "Undead Skin",
-  "power.kellosorigins.undead.description": "Due to you being undead you will now take more damage from Smite.",
+  "power.kellosorigins.undead.name": "Undead",
+  "power.kellosorigins.undead.description": "Due to you being undead you will now take more damage from Smite, be immune the the effects of weakness, poison and instant damage and have better vision in the dark and get hungry slower.",
 
   "power.kellosorigins.skeleton_bow.name": "Experienced Archer",
-  "power.kellosorigins.skeleton_bow.description": "Your bow shots will deal more damage.",
+  "power.kellosorigins.skeleton_bow.description": "Your bow shots will deal much more damage and all bows have infinity.",
 
   "power.kellosorigins.burn_in_daylight.name": "Burn in Daylight",
   "power.kellosorigins.burn_in_daylight.description": "Your undead skin will ignite in day if you don't wear something to cover it.",

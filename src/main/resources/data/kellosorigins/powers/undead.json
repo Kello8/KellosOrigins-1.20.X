@@ -1,4 +1,46 @@
 {
-  "type": "origins:entity_group",
-  "group": "undead"
+  "type": "origins:multiple",
+
+  "smite": {
+    "type": "origins:entity_group",
+    "group": "undead"
+  },
+
+  "undead_vision": {
+    "type": "origins:night_vision",
+    "strength": 0.4
+  },
+
+  "negative_potion_immunity": {
+    "type": "origins:effect_immunity",
+    "effects": [
+      "minecraft:weakness",
+      "minecraft:poison",
+      "minecraft:instant_damage"
+    ]
+  },
+
+  "bow": {
+    "type": "origins:starting_equipment",
+    "stacks": [
+      {
+        "item": "minecraft:bow",
+        "slot": 0
+      },
+      {
+        "item": "minecraft:arrow",
+        "amount": 64,
+        "slot": 17
+      }
+    ]
+  },
+
+  "undead_appetite": {
+    "type": "origins:modify_exhaustion",
+    "modifier": {
+      "name": "Increased exhaustion",
+      "operation": "multiply_base",
+      "value": 0.5
+    }
+  }
 }
